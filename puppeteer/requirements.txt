@@ -1,6 +1,6 @@
 appdirs==1.4.3
 cssselect==1.1.0
-lxml==4.4.2
+lxml==4.6.2
 pyee==6.0.0
 pyppeteer==0.0.25
 pyquery==1.4.1
